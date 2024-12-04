@@ -34,11 +34,16 @@ from local machain
 
 Init Command
 
---init: used to create a new git repo
+-- init: used to create a new git repo
 
 -- git init
+
 -- git remote add origin <- link ->
+
 -- git remote -v: (to verify remote)
+
 -- git branch: (to check branch)
+
 -- git branch -M main: (to rename branch)
+
 -- git push origin main || git push -u origin main: (to set upstream)# Learning_For_Git
