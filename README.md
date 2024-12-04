@@ -30,7 +30,7 @@ git commond
     >$git push origin main
 
 *******************************************************************
-from local machain
+# from local machain
 
 Init Command
 
@@ -47,3 +47,27 @@ Init Command
 -- git branch -M main: (to rename branch)
 
 -- git push origin main || git push -u origin main: (to set upstream)# Learning_For_Git
+
+********************************************************************
+
+# Workflow
+
+Local git
+
+1. Create a Github repo.
+    Clone >> changes >> add >> commit >> push.
+
+********************************************************************
+
+# Git Branch Command
+
+-- git branch: (to check branch)
+
+-- git branch: (to rename branch)
+
+-- git checkout <- branch name ->:  (to navigate)
+
+-- git checkout -b <- new branch name ->: (to create new branch)
+
+-- git branch -d <- branch name ->: (to delete branch)
+
