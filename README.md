@@ -63,7 +63,7 @@ Local git
 
 -- git branch: (to check branch)
 
--- git branch: (to rename branch)
+-- git branch <-new Branch name-> (to create new branch)
 
 -- git checkout <- branch name ->:  (to navigate)
 
