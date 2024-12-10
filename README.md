@@ -1,6 +1,6 @@
 # git and github demo
 
-This is my first Gir repository
+This is my first Git repository
 
 <br>
 Auther - Chandan
