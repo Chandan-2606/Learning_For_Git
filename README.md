@@ -71,3 +71,31 @@ Local git
 
 -- git branch -d <- branch name ->: (to delete branch)
 
+
+***********************************************************
+
+# gitignore
+
+<p>Open the file using a text editor.</p>
+<p>We are just going to add two simple rules.</p>
+<ul>
+<li>Ignore any files with the .log extension.</li>
+<li>Ignore everything in any directory named temp</li>
+
+</ul>
+
+<h2>Example</h2>
+<p>
+#ignore ALL .log files<br>
+*.log
+
+#ignore All files in ANY directory named temp<br>
+temp/
+</p>
+
+<p> Now all .log file and anything in temp folders will be ignored by Git.</p>
+
+
+# Rules For .gitignore
+
+-- #text comment
